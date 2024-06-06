@@ -17,6 +17,7 @@ I'm Giung Kim, developer from Korea
 <p>
   <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+   <img src="https://img.shields.io/badge/oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white" alt="Oculus">
 </p>
 
 
